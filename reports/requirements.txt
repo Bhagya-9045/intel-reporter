@@ -1,0 +1,6 @@
+requests
+python-dotenv
+textblob
+anthropic
+groq
+streamlit
